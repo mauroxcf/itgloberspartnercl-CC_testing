@@ -1,0 +1,6 @@
+{
+  "cc-testing": {
+    "component": "CustomComponent",
+    "composition": "children"
+  }
+}

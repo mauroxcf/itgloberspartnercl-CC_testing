@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
-  "name": "CHANGE_ME",
+  "vendor": "itgloberspartnercl",
+  "name": "cc-testing",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
